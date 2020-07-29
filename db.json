@@ -1,6 +1,8 @@
 {
-    "CLAIM": [{
-            "CLAIMID": " UF1000000000",
+    "CLAIM": 
+    [
+        {
+            "CLAIMID": "UF1000000000",
             "CLIENTCLAIMID": "UF1000000000",
             "CLAIMTYPE": "UB",
             "PATIENTCONTROLNUMBER": "999999999",
@@ -87,7 +89,7 @@
             }]
         },
         {
-            "CLAIMID": " UF1000000001",
+            "CLAIMID": "UF1000000001",
             "CLIENTCLAIMID": "UF1000000001",
             "CLAIMTYPE": "UB",
             "PATIENTCONTROLNUMBER": "999999999",
@@ -138,7 +140,7 @@
             }]
         },
         {
-            "CLAIMID": " UF1000000002",
+            "CLAIMID": "UF1000000002",
             "CLIENTCLAIMID": "UF1000000002",
             "CLAIMTYPE": "UB",
             "PATIENTCONTROLNUMBER": "999999999",
@@ -197,8 +199,5 @@
                     "UNITS": "2"
                 }
             ]
-
-        }
-    ]
-
+        }]
 }
