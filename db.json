@@ -2,232 +2,691 @@
 
     "CLAIM": [{
 
-        "CLAIMID": " UF1000000000",
+            "CLAIMID": " UF1000000000",
 
-        "CLIENTCLAIMID": "UF1000000000",
+            "CLIENTCLAIMID": "UF1000000000",
 
-        "CLAIMTYPE": "UB",
+            "CLAIMTYPE": "UB",
 
-        "PATIENTCONTROLNUMBER": "999999999",
+            "PATIENTCONTROLNUMBER": "999999999",
 
-        "TOTALCHARGES": "8038.34",
+            "TOTALCHARGES": "8038.34",
 
-        "PROVIDERNAME": "SAINT FRANCIS HOSPITALIN",
+            "PROVIDERNAME": "SAINT FRANCIS HOSPITALIN",
 
-        "PROVIDERTAXID": "730700090",
+            "PROVIDERTAXID": "730700090",
 
-        "BILLPROVADDRESS": "123 S YAKE AVE",
+            "BILLPROVADDRESS": "123 S YAKE AVE",
 
-        "BILLPROVCITYSTATEZIP": "TULSA OK 741361902",
+            "BILLPROVCITYSTATEZIP": "TULSA OK 741361902",
 
-        "SERVICINGPROVIDER": [],
+            "SERVICINGPROVIDER": [],
 
-        "SRVADDRESS": [],
+            "SRVADDRESS": [],
 
-        "SRVCITYSTATEZIP": [],
+            "SRVCITYSTATEZIP": [],
 
-        "SUBSCRIBERID": "99999999",
+            "SUBSCRIBERID": "99999999",
 
-        "GROUPNUMBER": "AGE909",
+            "GROUPNUMBER": "AGE909",
 
-        "GROUPNAME": [],
+            "GROUPNAME": [],
 
-        "PATIENTNAME": "JOHN DOE",
+            "PATIENTNAME": "JOHN DOE",
 
-        "PATIENTDOB": [],
+            "PATIENTDOB": [],
 
-        "PATADDRESS": [],
+            "PATADDRESS": [],
 
-        "PATCITYSTATEZIP": [],
+            "PATCITYSTATEZIP": [],
 
-        "PRINCIPALDIAGNOSIS": "O9902",
+            "PRINCIPALDIAGNOSIS": "O9902",
 
-        "PRINCAPLPROCEDURE": "10E0XZZ",
+            "PRINCAPLPROCEDURE": "10E0XZZ",
 
-        "SERVICELINES": [
+            "SERVICELINES": [
 
-            {
+                {
 
-                "LINENUMBER": "1",
+                    "LINENUMBER": "1",
 
-                "LINECHARGEAMOUNT": "1711.16",
+                    "LINECHARGEAMOUNT": "1711.16",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0110",
+                    "REVENUECODE": "0110",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "2"
+                    "UNITS": "2"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "2",
+                    "LINENUMBER": "2",
 
-                "LINECHARGEAMOUNT": "532.99",
+                    "LINECHARGEAMOUNT": "532.99",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0250",
+                    "REVENUECODE": "0250",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "18"
+                    "UNITS": "18"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "3",
+                    "LINENUMBER": "3",
 
-                "LINECHARGEAMOUNT": "1638.82",
+                    "LINECHARGEAMOUNT": "1638.82",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0300",
+                    "REVENUECODE": "0300",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "9"
+                    "UNITS": "9"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "4",
+                    "LINENUMBER": "4",
 
-                "LINECHARGEAMOUNT": "1034",
+                    "LINECHARGEAMOUNT": "1034",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0370",
+                    "REVENUECODE": "0370",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "2"
+                    "UNITS": "2"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "5",
+                    "LINENUMBER": "5",
 
-                "LINECHARGEAMOUNT": "212",
+                    "LINECHARGEAMOUNT": "212",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0390",
+                    "REVENUECODE": "0390",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "1"
+                    "UNITS": "1"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "6",
+                    "LINENUMBER": "6",
 
-                "LINECHARGEAMOUNT": "33.04",
+                    "LINECHARGEAMOUNT": "33.04",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0636",
+                    "REVENUECODE": "0636",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "4"
+                    "UNITS": "4"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "7",
+                    "LINENUMBER": "7",
 
-                "LINECHARGEAMOUNT": "0.01",
+                    "LINECHARGEAMOUNT": "0.01",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0636",
+                    "REVENUECODE": "0636",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "15"
+                    "UNITS": "15"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "8",
+                    "LINENUMBER": "8",
 
-                "LINECHARGEAMOUNT": "169.32",
+                    "LINECHARGEAMOUNT": "169.32",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0636",
+                    "REVENUECODE": "0636",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "3"
+                    "UNITS": "3"
 
-            },
+                },
 
-            {
+                {
 
-                "LINENUMBER": "9",
+                    "LINENUMBER": "9",
 
-                "LINECHARGEAMOUNT": "2707",
+                    "LINECHARGEAMOUNT": "2707",
 
-                "SERVICEFROM": [],
+                    "SERVICEFROM": [],
 
-                "SERVICETO": [],
+                    "SERVICETO": [],
 
-                "REVENUECODE": "0720",
+                    "REVENUECODE": "0720",
 
-                "CPT": [],
+                    "CPT": [],
 
-                "MODIFIER": [],
+                    "MODIFIER": [],
 
-                "UNITS": "1"
+                    "UNITS": "1"
 
-            }
+                }
 
-        ]
+            ]
 
-    }]
+        },
+        {
+
+            "CLAIMID": " UF1000000001",
+
+            "CLIENTCLAIMID": "UF1000000001",
+
+            "CLAIMTYPE": "UB",
+
+            "PATIENTCONTROLNUMBER": "999999999",
+
+            "TOTALCHARGES": "8038.34",
+
+            "PROVIDERNAME": "SAINT FRANCIS HOSPITALIN",
+
+            "PROVIDERTAXID": "730700090",
+
+            "BILLPROVADDRESS": "123 S YAKE AVE",
+
+            "BILLPROVCITYSTATEZIP": "TULSA OK 741361902",
+
+            "SERVICINGPROVIDER": [],
+
+            "SRVADDRESS": [],
+
+            "SRVCITYSTATEZIP": [],
+
+            "SUBSCRIBERID": "99999999",
+
+            "GROUPNUMBER": "AGE909",
+
+            "GROUPNAME": [],
+
+            "PATIENTNAME": "JOHN DOE",
+
+            "PATIENTDOB": [],
+
+            "PATADDRESS": [],
+
+            "PATCITYSTATEZIP": [],
+
+            "PRINCIPALDIAGNOSIS": "O9902",
+
+            "PRINCAPLPROCEDURE": "10E0XZZ",
+
+            "SERVICELINES": [
+
+                {
+
+                    "LINENUMBER": "1",
+
+                    "LINECHARGEAMOUNT": "1711.16",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0110",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "2"
+
+                },
+
+                {
+
+                    "LINENUMBER": "2",
+
+                    "LINECHARGEAMOUNT": "532.99",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0250",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "18"
+
+                },
+
+                {
+
+                    "LINENUMBER": "3",
+
+                    "LINECHARGEAMOUNT": "1638.82",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0300",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "9"
+
+                },
+
+                {
+
+                    "LINENUMBER": "4",
+
+                    "LINECHARGEAMOUNT": "1034",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0370",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "2"
+
+                },
+
+                {
+
+                    "LINENUMBER": "5",
+
+                    "LINECHARGEAMOUNT": "212",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0390",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "1"
+
+                },
+
+                {
+
+                    "LINENUMBER": "6",
+
+                    "LINECHARGEAMOUNT": "33.04",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0636",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "4"
+
+                },
+
+                {
+
+                    "LINENUMBER": "7",
+
+                    "LINECHARGEAMOUNT": "0.01",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0636",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "15"
+
+                },
+
+                {
+
+                    "LINENUMBER": "8",
+
+                    "LINECHARGEAMOUNT": "169.32",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0636",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "3"
+
+                },
+
+                {
+
+                    "LINENUMBER": "9",
+
+                    "LINECHARGEAMOUNT": "2707",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0720",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "1"
+
+                }
+
+            ]
+
+        },
+        {
+
+            "CLAIMID": " UF1000000002",
+
+            "CLIENTCLAIMID": "UF1000000002",
+
+            "CLAIMTYPE": "UB",
+
+            "PATIENTCONTROLNUMBER": "999999999",
+
+            "TOTALCHARGES": "8038.34",
+
+            "PROVIDERNAME": "SAINT FRANCIS HOSPITALIN",
+
+            "PROVIDERTAXID": "730700090",
+
+            "BILLPROVADDRESS": "123 S YAKE AVE",
+
+            "BILLPROVCITYSTATEZIP": "TULSA OK 741361902",
+
+            "SERVICINGPROVIDER": [],
+
+            "SRVADDRESS": [],
+
+            "SRVCITYSTATEZIP": [],
+
+            "SUBSCRIBERID": "99999999",
+
+            "GROUPNUMBER": "AGE909",
+
+            "GROUPNAME": [],
+
+            "PATIENTNAME": "JOHN DOE",
+
+            "PATIENTDOB": [],
+
+            "PATADDRESS": [],
+
+            "PATCITYSTATEZIP": [],
+
+            "PRINCIPALDIAGNOSIS": "O9902",
+
+            "PRINCAPLPROCEDURE": "10E0XZZ",
+
+            "SERVICELINES": [
+
+                {
+
+                    "LINENUMBER": "1",
+
+                    "LINECHARGEAMOUNT": "1711.16",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0110",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "2"
+
+                },
+
+                {
+
+                    "LINENUMBER": "2",
+
+                    "LINECHARGEAMOUNT": "532.99",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0250",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "18"
+
+                },
+
+                {
+
+                    "LINENUMBER": "3",
+
+                    "LINECHARGEAMOUNT": "1638.82",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0300",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "9"
+
+                },
+
+                {
+
+                    "LINENUMBER": "4",
+
+                    "LINECHARGEAMOUNT": "1034",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0370",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "2"
+
+                },
+
+                {
+
+                    "LINENUMBER": "5",
+
+                    "LINECHARGEAMOUNT": "212",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0390",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "1"
+
+                },
+
+                {
+
+                    "LINENUMBER": "6",
+
+                    "LINECHARGEAMOUNT": "33.04",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0636",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "4"
+
+                },
+
+                {
+
+                    "LINENUMBER": "7",
+
+                    "LINECHARGEAMOUNT": "0.01",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0636",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "15"
+
+                },
+
+                {
+
+                    "LINENUMBER": "8",
+
+                    "LINECHARGEAMOUNT": "169.32",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0636",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "3"
+
+                },
+
+                {
+
+                    "LINENUMBER": "9",
+
+                    "LINECHARGEAMOUNT": "2707",
+
+                    "SERVICEFROM": [],
+
+                    "SERVICETO": [],
+
+                    "REVENUECODE": "0720",
+
+                    "CPT": [],
+
+                    "MODIFIER": [],
+
+                    "UNITS": "1"
+
+                }
+
+            ]
+
+        }
+    ]
 
 }
